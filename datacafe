@@ -1,0 +1,108 @@
+{ 
+  "cafe1" : {
+    "namacaffee"      : "Never Been Better",
+    "alamat"          : "Jl. Kemang Selatan no 31, Bangka, RT.5/RW.4, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+    "area"            : "Jakarta Selatan",
+    "nomortelepon"    : (021)7823019,
+    "web"             : -
+  },
+  "cafe2" : {
+    "namacaffee"      : "The Reading Room",
+    "alamat"          : "Jalan Kemang Timur No. 57 A-B, Jakarta Selatan, DKI Jakarta, 12730",
+    "area"            : Jakarta Selatan,
+    "nomortelepon"    : 081219481977,
+    "web"             : -
+  },
+  "cafe3"           : {
+    "namacaffee"      : "FJ on 7",
+    "alamat"          : "Jalan Kemang Raya No.6, RT.14/RW.1, Bangka, Mampang Prapatan, RT.14/RW.1, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12720",
+    "area"            : "Jakarta Selatan",
+    "nomortelepon"    : (021)29529912,
+    "web"             : -
+  },
+  "cafe4" : {
+    "namacaffee"      : "Antipodean Coffee",
+    "alamat"          : "Hero Kemang Villa Complex, Jl. Kemang Selatan I, Bangka, Mampang Prapatan, RT.8/RW.3, Bangka, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+    "area"            : Jakarta Selatan,
+    "nomortelepon"    : (021)7192364,
+    "web"             : -
+  },
+  "cafe5" : {
+    "namacaffee"      : "Sophie Authentique",
+    "alamat"          : "Jl. Kemang Raya No.55, RT.4/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+    "area"            : Jakarta Selatan,
+    "nomortelepon"    : (021)22717066,
+    "web"             : -
+  },
+    "cafe6" : {
+    "namacaffee"      : "Roti Bakar Kemang",
+    "alamat"          : "Jl. Kemang Raya No.69E, RT.11/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+    "area"            : Jakarta Selatan,
+    "nomortelepon"    : (021)22716140,
+    "web"             : -
+  },
+    "cafe7" : {
+    "namacaffee"      : "Anomali Coffee Kemang",
+    "alamat"          : "Jl. Kemang Raya No.72, RT.4/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+    "area"            : Jakarta Selatan,
+    "nomortelepon"    : (021)7194742,
+    "web"             : -
+  },
+    "cafe8" : {
+    "namacaffee"      : "Kopi Bar",
+    "alamat"          : "Jl. Margonda Raya No.400, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
+    "area"            : Depok,
+    "nomortelepon"    : 081908906993,
+    "web"             : -
+  },
+    "cafe9" : {
+    "namacaffee"      : "Milan Pizzeria Café",
+    "alamat"          : "Jl. Margonda Raya No.514, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
+    "area"            : Depok,
+    "nomortelepon"    : (021)78883789,
+    "web"             : -
+  },
+    "cafe10" : {
+    "namacaffee"      : "Kedai Kopi Kimung",
+    "alamat"          : "Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
+    "area"            : Depok,
+    "nomortelepon"    : (021)29402393,
+    "web"             : -
+  },
+    "cafe11" : {
+    "namacaffee"      : "Green T",
+    "alamat"          : "Library, Universitas Indonesia, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
+    "area"            : Depok,
+    "nomortelepon"    : (021)29027510,
+    "web"             : -
+  },
+    "cafe12" : {
+    "namacaffee"      : "Zoe Reborn Library Café",
+    "alamat"          : "Jl. Margonda Raya No.27, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
+    "area"            : Depok,
+    "nomortelepon"    : (021)77202063,
+    "web"             : -
+  },
+    "cafe13" : {
+    "namacaffee"      : "Kedai Kopi Kimung",
+    "alamat"          : "Jl. Margonda Raya No.505C, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
+    "area"            : Depok,
+    "nomortelepon"    : (021)7874039,
+    "web"             : -
+  },
+    "cafe14" : {
+    "namacaffee"      : "Warung Pasta Depok",
+    "alamat"          : "Jl. Margonda Raya No.518, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
+    "area"            : Depok,
+    "nomortelepon"    : (021)78882366,
+    "web"             : -
+  },
+    "cafe15" : {
+    "namacaffee"      : "Coffee Toffee Margonda 291",
+    "alamat"          : "Jl. Margonda Raya No.291, Kemiri Muka, Beji, Kota Depok, Jawa Barat 16423",
+    "area"            : Depok,
+    "nomortelepon"    : (021)77207272,
+    "web"             : -
+  },
+
+}
