@@ -1,5 +1,6 @@
 { "daftarcafe" : [
     {
+    "id" : "1",
     "namacafe"      : "Never Been Better",
     "alamat"          : "Jl. Kemang Selatan no 31, Bangka, RT.5/RW.4, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area"            : "Jakarta Selatan",
@@ -7,6 +8,7 @@
     "web"             : "-"
   },
     {
+    "id" : "2",
     "namacafe"      : "The Reading Room",
     "alamat"          : "Jalan Kemang Timur No. 57 A-B, Jakarta Selatan, DKI Jakarta, 12730",
     "area"            : "Jakarta Selatan",
@@ -14,6 +16,7 @@
     "web"             : "-"
   },
     {
+    "id" : "3",
     "namacafe"      : "FJ on 7",
     "alamat"          : "Jalan Kemang Raya No.6, RT.14/RW.1, Bangka, Mampang Prapatan, RT.14/RW.1, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12720",
     "area"            : "Jakarta Selatan",
@@ -21,6 +24,7 @@
     "web"             : "-"
   },
     {
+    "id" : "4",
     "namacafe"      : "Antipodean Coffee",
     "alamat"          : "Hero Kemang Villa Complex, Jl. Kemang Selatan I, Bangka, Mampang Prapatan, RT.8/RW.3, Bangka, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area"            : "Jakarta Selatan",
@@ -28,6 +32,7 @@
     "web"             : "-"
   },
     {
+    "id" : "5",
     "namacafe"      : "Sophie Authentique",
     "alamat"          : "Jl. Kemang Raya No.55, RT.4/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area"            : "Jakarta Selatan",
@@ -35,6 +40,7 @@
     "web"             : "-"
   },
     {
+    "id" : "6",
     "namacafe"      : "Roti Bakar Kemang",
     "alamat"          : "Jl. Kemang Raya No.69E, RT.11/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area"            : "Jakarta Selatan",
@@ -42,6 +48,7 @@
     "web"             : "-"
   },
     {
+    "id" : "7",
     "namacafe"      : "Anomali Coffee Kemang",
     "alamat"          : "Jl. Kemang Raya No.72, RT.4/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area"            : "Jakarta Selatan",
@@ -49,6 +56,7 @@
     "web"             : "-"
   },
     {
+    "id" : "8",
     "namacafe"      : "Kopi Bar",
     "alamat"          : "Jl. Margonda Raya No.400, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
@@ -56,6 +64,7 @@
     "web"             : "-"
   },
     {
+    "id" : "9",
     "namacafe"      : "Milan Pizzeria Café",
     "alamat"          : "Jl. Margonda Raya No.514, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
@@ -63,6 +72,7 @@
     "web"             : "-"
   },
     {
+    "id" : "10",
     "namacafe"      : "Kedai Kopi Kimung",
     "alamat"          : "Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
@@ -70,6 +80,7 @@
     "web"             : "-"
   },
     {
+    "id" : "11",
     "namacafe"      : "Green T",
     "alamat"          : "Library, Universitas Indonesia, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
@@ -77,6 +88,7 @@
     "web"             : "-"
   },
     {
+    "id" : "12",
     "namacafe"      : "Zoe Reborn Library Café",
     "alamat"          : "Jl. Margonda Raya No.27, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
@@ -84,6 +96,7 @@
     "web"             : "-"
   },
     {
+    "id" : "13",
     "namacafe"      : "Kedai Kopi Kimung",
     "alamat"          : "Jl. Margonda Raya No.505C, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
@@ -91,6 +104,7 @@
     "web"             : "-"
   },
     {
+    "id" : "14",
     "namacafe"      : "Warung Pasta Depok",
     "alamat"          : "Jl. Margonda Raya No.518, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
@@ -98,6 +112,7 @@
     "web"             : "-"
   },
     {
+    "id" : "15",
     "namacafe"      : "Coffee Toffee Margonda 291",
     "alamat"          : "Jl. Margonda Raya No.291, Kemiri Muka, Beji, Kota Depok, Jawa Barat 16423",
     "area"            : "Depok",
