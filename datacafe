@@ -10,7 +10,7 @@
     "namacafe"      : "The Reading Room",
     "alamat"          : "Jalan Kemang Timur No. 57 A-B, Jakarta Selatan, DKI Jakarta, 12730",
     "area"            : "Jakarta Selatan",
-    "nomortelepon"    : "08121948197"7,
+    "nomortelepon"    : "081219481977",
     "web"             : "-"
   },
     {
@@ -83,26 +83,26 @@
     "nomortelepon"    : "(021)77202063",
     "web"             : "-"
   },
-    "cafe13" : {
+    {
     "namacafe"      : "Kedai Kopi Kimung",
     "alamat"          : "Jl. Margonda Raya No.505C, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
     "nomortelepon"    : "(021)7874039",
     "web"             : "-"
   },
-    "cafe14" : {
+    {
     "namacafe"      : "Warung Pasta Depok",
     "alamat"          : "Jl. Margonda Raya No.518, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area"            : "Depok",
     "nomortelepon"    : "(021)78882366",
     "web"             : "-"
   },
-    "cafe15" : {
+    {
     "namacafe"      : "Coffee Toffee Margonda 291",
     "alamat"          : "Jl. Margonda Raya No.291, Kemiri Muka, Beji, Kota Depok, Jawa Barat 16423",
     "area"            : "Depok",
     "nomortelepon"    : "(021)77207272",
     "web"             : "-"
-  },
+  }
 ]
 }
