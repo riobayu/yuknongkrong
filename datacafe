@@ -1,4 +1,4 @@
-{ "daftarcafe" : {
+{ "daftarcafe" : [
     {
     "namacafe"      : "Never Been Better",
     "alamat"          : "Jl. Kemang Selatan no 31, Bangka, RT.5/RW.4, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
@@ -104,5 +104,5 @@
     "nomortelepon"    : (021)77207272,
     "web"             : -
   },
- }
+ ]
 }
