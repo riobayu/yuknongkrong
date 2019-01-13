@@ -5,8 +5,6 @@
     "alamat":"Jl. Kemang Selatan no 31, Bangka, RT.5/RW.4, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area":"Jakarta Selatan",
     "nomortelepon":"(021)7823019",
-    "menu":["Salad","Omelette","Sandwich","Chicken Soup"],
-    "harga":["27k","32k","32k","27k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/never_been_better.jpg"
   },
     {
@@ -15,8 +13,6 @@
     "alamat":"Jalan Kemang Timur No. 57 A-B, Jakarta Selatan, DKI Jakarta, 12730",
     "area":"Jakarta Selatan",
     "nomortelepon":"081219481977",
-    "menu":["Espresso","Americano","Cappuccino","Latte"],
-    "harga":["25k","35k","44k","42k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/the_reading_room.jpg"
   },
     {
@@ -25,8 +21,6 @@
     "alamat":"Jalan Kemang Raya No.6, RT.14/RW.1, Bangka, Mampang Prapatan, RT.14/RW.1, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12720",
     "area":"Jakarta Selatan",
     "nomortelepon":"(021)29529912",
-    "menu":["Sandwich","Pasta","Soup","Pizza"],
-    "harga":["100k","125k","100k","100k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/fj_on_7.jpg"
   },
     {
@@ -35,8 +29,6 @@
     "alamat":"Hero Kemang Villa Complex, Jl. Kemang Selatan I, Bangka, Mampang Prapatan, RT.8/RW.3, Bangka, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area":"Jakarta Selatan",
     "nomortelepon":"(021)7192364",
-    "menu":["Breakfast","Lunch","Coffee","Fresh Juice"],
-    "harga":["30k","50k","20k","20k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/antipodean_coffee.jpg"
   },
     {
@@ -45,8 +37,6 @@
     "alamat":"Jl. Kemang Raya No.55, RT.4/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area":"Jakarta Selatan",
     "nomortelepon":"(021)22717066",
-    "menu":["Non Coffee","Hot Tea","Frappes","Ice Cream"],
-    "harga":["50k","30k","40k","30k"],
     "imageurl": "https://github.com/riobayu/yuknongkrong/blob/master/sophie_authentique.jpg"
   },
     {
@@ -55,8 +45,6 @@
     "alamat":"Jl. Margonda Raya No.400, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
     "nomortelepon":"081908906993",
-    "menu":["Espresso","Macchiato","Americano","Kopi Tubruk"],
-    "harga":["26k","28k","30k","34k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/kopi%20_bar.jpg"
   },
     {
@@ -64,9 +52,7 @@
     "namacafe":"Milan Pizzeria Cafe",
     "alamat":"Jl. Margonda Raya No.514, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
-    "nomortelepon":"(021)78883789",
-    "menu":["Royal Truffle","Smoked Salmon","Black Pepper","Special Deluxe"],
-    "harga":["60k","80k","80k","60k"],
+    "nomortelepon":"(021)78883789",,
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/milan_pizzeria_cafe.jpg"
   },
     {
@@ -75,8 +61,6 @@
     "alamat":"Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
     "nomortelepon":"(021)29402393",
-    "menu":["Es Kopi Kimung","Ice Cappucino","Kimung On The Rock","Kopi Turki"],
-    "harga":["28k","29k","26k","30k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/kedai_kopi_kimung.jpg"
   },
     {
@@ -85,8 +69,6 @@
     "alamat":"Library, Universitas Indonesia, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
     "nomortelepon":"(021)29027510",
-    "menu":["Healty Food","Fried Rice Classic","Pointer","Beverages"],
-    "harga":["50k","50k","60k","70k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/green_t.jpg"
   },
     {
@@ -95,9 +77,6 @@
     "alamat":"Jl. Margonda Raya No.27, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
     "nomortelepon":"(021)77202063",
-    "menu":["Salad","Appettizer","Soup","Beverages"],
-    "harga":["30k","40k","40k","20k"],
     "imageurl":"https://github.com/riobayu/yuknongkrong/blob/master/zoe_reborn_library_cafe.JPG"
   },
 ]
-
