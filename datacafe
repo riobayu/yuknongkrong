@@ -4,6 +4,14 @@
     "namacafe":"Never Been Better",
     "alamat":"Jl. Kemang Selatan no 31, Bangka, RT.5/RW.4, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area":"Jakarta Selatan",
+    "menu1":"Salad",
+    "menu2":"Omelette",
+    "menu3":"Sandwich",
+    "menu4":"Chicken Soup",
+    "harga1":"27k",
+    "harga2":"32k",
+    "harga3":"32k",
+    "harga4":"32",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/never_been_better.jpg"
   },
     {
@@ -11,6 +19,14 @@
     "namacafe":"The Reading Room",
     "alamat":"Jalan Kemang Timur No. 57 A-B, Jakarta Selatan, DKI Jakarta, 12730",
     "area":"Jakarta Selatan",
+    "menu1":"Espresso",
+    "menu2":"Americano",
+    "menu3":"Cappuccino",
+    "menu4":"Latte",
+    "harga1":"25k",
+    "harga2":"35k",
+    "harga3":"44k",
+    "harga4":"42",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/the_reading_room.jpg"
   },
     {
@@ -18,6 +34,14 @@
     "namacafe":"FJ on 7",
     "alamat":"Jalan Kemang Raya No.6, RT.14/RW.1, Bangka, Mampang Prapatan, RT.14/RW.1, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12720",
     "area":"Jakarta Selatan",
+    "menu1":"Sandwich",
+    "menu2":"Pasta",
+    "menu3":"Soup",
+    "menu4":"Pizza",
+    "harga1":"100k",
+    "harga2":"125k",
+    "harga3":"100k",
+    "harga4":"100",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/fj_on_7.jpg"
   },
     {
@@ -25,6 +49,14 @@
     "namacafe":"Antipodean Coffee",
     "alamat":"Hero Kemang Villa Complex, Jl. Kemang Selatan I, Bangka, Mampang Prapatan, RT.8/RW.3, Bangka, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area":"Jakarta Selatan",
+    "menu1":"Breakfast",
+    "menu2":"Lunch",
+    "menu3":"Coffee",
+    "menu4":"Fresh Juice",
+    "harga1":"30k",
+    "harga2":"50k",
+    "harga3":"20k",
+    "harga4":"20",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/antipodean_coffee.jpg"
   },
     {
@@ -32,6 +64,14 @@
     "namacafe":"Sophie Authentique",
     "alamat":"Jl. Kemang Raya No.55, RT.4/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
     "area":"Jakarta Selatan",
+    "menu1":"Non Coffee",
+    "menu2":"Hot Tea",
+    "menu3":"Frappes",
+    "menu4":"Ice Cream",
+    "harga1":"50k",
+    "harga2":"30k",
+    "harga3":"40k",
+    "harga4":"30",
     "imageurl": "https://raw.githubusercontent.com/riobayu/yuknongkrong/master/sophie_authentique.jpg"
   },
     {
@@ -39,6 +79,14 @@
     "namacafe":"Kopi Bar",
     "alamat":"Jl. Margonda Raya No.400, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
+    "menu1":"Espresso",
+    "menu2":"Macchiato",
+    "menu3":"Americano",
+    "menu4":"Kopi Tubruk",
+    "harga1":"26k",
+    "harga2":"28k",
+    "harga3":"30k",
+    "harga4":"34k",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/kopi%20_bar.jpg"
   },
     {
@@ -46,6 +94,14 @@
     "namacafe":"Milan Pizzeria Cafe",
     "alamat":"Jl. Margonda Raya No.514, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
+    "menu1":"Royal Truffle",
+    "menu2":"Smoked Salmon",
+    "menu3":"Black Pepper",
+    "menu4":"Special Deluxe",
+    "harga1":"60k",
+    "harga2":"80k",
+    "harga3":"80k",
+    "harga4":"60k",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/milan_pizzeria_cafe.jpg"
   },
     {
@@ -53,6 +109,14 @@
     "namacafe":"Kedai Kopi Kimung",
     "alamat":"Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
+    "menu1":"Es Kopi Kimung",
+    "menu2":"Ice Cappucino",
+    "menu3":"Kimung On The Rock",
+    "menu4":"Kopi Turki",
+    "harga1":"28k",
+    "harga2":"29k",
+    "harga3":"26k",
+    "harga4":"30k",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/kedai_kopi_kimung.jpg"
   },
     {
@@ -60,6 +124,14 @@
     "namacafe":"Green T",
     "alamat":"Library, Universitas Indonesia, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
+    "menu1":"Healty Food",
+    "menu2":"Fried Rice Classic",
+    "menu3":"Pointer",
+    "menu4":"Beverages",
+    "harga1":"50k",
+    "harga2":"50k",
+    "harga3":"60k",
+    "harga4":"70k",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/green_t.jpg"
   },
     {
@@ -67,6 +139,14 @@
     "namacafe":"Zoe Reborn Library Cafe",
     "alamat":"Jl. Margonda Raya No.27, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424",
     "area":"Depok",
+    "menu1":"Salad",
+    "menu2":"Appettizer",
+    "menu3":"Soup",
+    "menu4":"Beverages",
+    "harga1":"30k",
+    "harga2":"40k",
+    "harga3":"40k",
+    "harga4":"20k",
     "imageurl":"https://raw.githubusercontent.com/riobayu/yuknongkrong/master/zoe_reborn_library_cafe.JPG"
   }
 ]
